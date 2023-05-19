@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->### Boas vindas ao meu perfil :blue_heart
+
+Meu nome é Sérgio Signolfi
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+
+
+![descrição do GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgerson-vapo-football-vapo-vapo-coringa-gif-27081439&psig=AOvVaw2YVndmKtcVnyUl53lN2Hv3&ust=1684581101300000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICiu-efgf8CFQAAAAAdAAAAABAf)
