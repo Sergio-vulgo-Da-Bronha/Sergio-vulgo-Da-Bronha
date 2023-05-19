@@ -3,17 +3,7 @@
 <!--
 **Sergio-vulgo-Da-Bronha/Sergio-vulgo-Da-Bronha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->### Boas vindas ao meu perfil :blue_heart
+-->### Boas vindas ao meu perfil :blue_heart ###
 
 Meu nome é Sérgio Signolfi
 
@@ -21,6 +11,4 @@ Meu nome é Sérgio Signolfi
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-
-
-![Ixqueceee](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgerson-vapo-football-vapo-vapo-coringa-gif-27081439&psig=AOvVaw2YVndmKtcVnyUl53lN2Hv3&ust=1684581101300000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICiu-efgf8CFQAAAAAdAAAAABAf)
+<img src="https://static.wikia.nocookie.net/herofanon/images/1/16/9D5D811C-F040-4E6D-9245-6D2E437D5775.jpeg/revision/latest?cb=20200827164154" alt="Marselo | Hero Fanon Wiki | Fandom"/>![image](https://github.com/Sergio-vulgo-Da-Bronha/Sergio-vulgo-Da-Bronha/assets/134059952/6e25115d-1b02-447f-84ea-fbb516525f7e)
